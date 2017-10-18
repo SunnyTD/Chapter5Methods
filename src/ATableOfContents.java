@@ -13,6 +13,11 @@ public class ATableOfContents
 
         Method examples: main (above), Math.pow.
         Black box method: Not knowing how the method works, just what it needs as input, and what it outputs.
+
+        5.9: Recursive Methods (Optional)
+
+        Simply put, methods can call themselves. (method within a method)
+        Nested loops can be used for the same purpose, but methods are easier to understand. 
         */
         //</editor-fold
 
